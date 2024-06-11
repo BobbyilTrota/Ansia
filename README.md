@@ -1,10 +1,10 @@
-# Thoughts at the park
-A short narrative experience exploring the topic of personal convictions and the act of convincing.
+# Ansia
+
 
 ## Play Online
-<https://valfezant.github.io/with-emily-at-the-park/>
+<https://bobbyiltrota.github.io/Ansia/>
 
 ## Homer Project
-<https://homer.open-lab.com/public/PRJ-8d0a64ee-be21-429a-865f-1715085911874>
+<https://homer.open-lab.com/public/PRJ-e68522eb-4322-4d86-9d87-1718033400163>
 
 
